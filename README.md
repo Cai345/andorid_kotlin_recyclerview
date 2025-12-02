@@ -36,8 +36,8 @@ The following EXTRA features are implemented:
 Here's a video / GIF that demos all of the app's implemented features:
 https://www.loom.com/share/fb3c7a47ad364812a21828bcd3e1c1af
 
-GIF created with **your chosen GIF tool**
 
+Source Code: https://drive.google.com/file/d/1B-kNP5Bem3TdFdMEyasrchk1DS1HX3hJ/view?usp=drive_link
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
 - [ScreenToGif](https://www.screentogif.com/) for Windows
